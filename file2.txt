@@ -1,2 +1,4 @@
 my new file
 added a line to file 2
+added a new line in my cloned repo
+
